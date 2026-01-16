@@ -384,6 +384,7 @@ button:hover {
 /* 朋友圈预览样式 */
 .wechat-moment {
     width: 420px;
+    height: 800px;
     background: white;
     box-shadow: 0 0 15px rgba(0,0,0,0.15);
     border-radius: 10px;
